@@ -1,5 +1,7 @@
 def helloworld(a):
-    print(f"Hellow Worlds: {a}")  # sdfdf
+    msg = f"Hellow Worlds: {a}"
+    print(msg)  # sdfdf
+    return msg
 
 
 if __name__ == "__main__":
