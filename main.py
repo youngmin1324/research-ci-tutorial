@@ -1,17 +1,8 @@
 def helloworld(a):
-    msg = f"Hello World: {a}"
+    msg = f"Hello World! {a}"
     print(msg)  # sdfdf
     return msg
 
-def helloworld(a):
-    msg = f"Hello World: {a}"
-    print(msg)  # sdfdf
-    return msg
 
-def helloworld(a):
-    msg = f"Hello World: {a}"
-    print(msg)  # sdfdf
-    return msg
-
-if __name__ == "__main__": # pragma: no cover
+if __name__ == "__main__":  # pragma: no cover
     helloworld("Youngmin")
